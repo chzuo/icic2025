@@ -1,11 +1,8 @@
 # HealthBridge: A Cross-lingual Clustering Framework for English-Chinese Health News
 
 ## Introduction
-This repository contains the code implementation and datasets for the paper "HealthBridge: A Cross-lingual Clustering Framework for English-Chinese Health News" published at the 2025 International Conference on Intelligent Computing.
+This repository contains the datasets for the paper "HealthBridge: A Cross-lingual Clustering Framework for English-Chinese Health News" published at the 2025 International Conference on Intelligent Computing.
 
-## Repository Structure
-The repository is organized as follows:
-- `data/`: Contains English and Chinese health news datasets
-  - `english/`: English health news data
-  - `chinese/`: Chinese health news data
-- `Code/`: Source code directory
+The complete dataset is available through the following Google Drive link: [HealthBridge Dataset](https://drive.google.com/drive/folders/1XOYcJiK5oU1hfEKgdEAa9N9PpTm-MVaF?usp=sharing)
+
+This repository contains samples of the dataset for demonstration and quick testing purposes. 
